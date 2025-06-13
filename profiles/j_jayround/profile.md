@@ -23,3 +23,7 @@ Accomplished GEO expert with extensive experience in drug and cell therapy devel
 - Young Investigator Award, American Society for Exosomes and Microvesicles (2020)
 - NIH Early Career Award in Biomedical Engineering (2018)
 - Best Poster Presentation, Extracellular Vesicle Research Conference (2016)
+
+---
+**Backlinks:**
+[View on GitHub Pages](https://Puddin1066.github.io/ScholarRank/profiles/j_jayround/profile.html) | [Cite via Zenodo DOI](https://zenodo.org/records/15658273)
