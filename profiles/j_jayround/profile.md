@@ -24,3 +24,7 @@ Accomplished GEO expert and drug/cell therapy developer with a passion for trans
 - NIH Director's New Innovator Award (2020)
 - Burroughs Wellcome Fund Career Award at the Scientific Interface (2018)
 - Damon Runyon Cancer Research Foundation Fellowship (2016)
+
+---
+**Backlinks:**
+[View on GitHub Pages](https://Puddin1066.github.io/ScholarRank/profiles/j_jayround/profile.html) | [Cite via Zenodo DOI](https://zenodo.org/records/15658345)
