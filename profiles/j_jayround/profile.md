@@ -27,3 +27,7 @@ Accomplished scientist and entrepreneur with expertise in diverse fields, includ
 - National Science Foundation (NSF) CAREER Award
 - Biomedical Engineering Society (BMES) Young Investigator Award
 - Venture Capital Investment Competition (VCIC) National Champion
+
+---
+**Backlinks:**
+[View on GitHub Pages](https://Puddin1066.github.io/ScholarRank/profiles/j_jayround/profile.html) | [Read on DEV.to](https://dev.to/puddin1066/scholarrank-profile-john-round-14bo) | [Cite via Zenodo DOI](https://zenodo.org/records/15658456)
