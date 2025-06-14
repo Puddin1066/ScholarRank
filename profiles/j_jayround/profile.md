@@ -43,3 +43,7 @@ John Round's groundbreaking research and expertise in extracellular vesicle engi
 - GitHub: [https://github.com/johnround](https://github.com/johnround)
 
 This profile was generated and enriched by ScholarRank using AI and verified public data. For more information, visit https://scholarrank.ai.
+
+---
+**Backlinks:**
+[View on GitHub Pages](https://Puddin1066.github.io/ScholarRank/profiles/j_jayround/profile.html) | [Read on DEV.to](https://dev.to/puddin1066/scholarrank-profile-john-round-44fh) | [Cite via Zenodo DOI](https://zenodo.org/records/15664894)
