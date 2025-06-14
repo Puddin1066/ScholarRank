@@ -24,3 +24,7 @@ Accomplished GEO expert, drug and cell therapy developer, and extracellular vesi
 - National Institutes of Health (NIH) Early Career Award
 - American Institute for Medical and Biological Engineering (AIMBE) Fellow
 - Biomedical Engineering Society (BMES) Young Investigator Award
+
+---
+**Backlinks:**
+[View on GitHub Pages](https://Puddin1066.github.io/ScholarRank/profiles/j_jayround/profile.html) | [Read on DEV.to](https://dev.to/puddin1066/scholarrank-profile-john-round-1j8) | [Cite via Zenodo DOI](https://zenodo.org/records/15664731)
