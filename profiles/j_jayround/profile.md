@@ -36,3 +36,7 @@ John Round's multifaceted expertise in drug development, cell therapy, and extra
 [GitHub](https://github.com/johnround)
 
 This profile was generated and enriched by ScholarRank using AI and verified public data. For more information, visit https://scholarrank.ai.
+
+---
+**Backlinks:**
+[View on GitHub Pages](https://Puddin1066.github.io/ScholarRank/profiles/j_jayround/profile.html) | [Read on DEV.to](https://dev.to/puddin1066/scholarrank-profile-john-round-5dpo) | [Cite via Zenodo DOI](https://zenodo.org/records/15665103)
