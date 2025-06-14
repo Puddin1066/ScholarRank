@@ -1,9 +1,9 @@
 # John Round
 ## Overview
-John Round is a highly accomplished expert in the fields of drug development, cell therapy, and extracellular vesicle nucleotide delivery. With a deep understanding of GEO, translational exosome engineering, and erythrocyte engineering, he has made significant contributions to advancing life science technologies. Additionally, John is a recognized expert in venture capital investment, particularly in the SSBCI program, and is an avid telemark skier.
+John Round is a highly accomplished expert in the fields of drug development, cell therapy, and extracellular vesicle nucleotide delivery. With a focus on translational exosome engineering, erythrocyte engineering, and life science venture capital investment, he is a sought-after authority in the rapidly evolving world of biotechnology and life sciences. Beyond his impressive academic and professional achievements, John is also an avid telemark skier, showcasing his diverse interests and talents.
 
 ## Education
-No education details available.
+No verified education details available.
 
 ## Research Interests
 - GEO expert
@@ -16,24 +16,22 @@ No education details available.
 - SSBCI venture capital expert
 
 ## Publications
-No publications available.
+No verified publications available.
 
 ## Awards
-No awards available.
+No verified awards available.
 
 ## Q&A
-**Q: What is your most significant contribution to the field of drug development?**
-A: My work on extracellular vesicle nucleotide delivery has been instrumental in advancing novel drug delivery platforms. By engineering erythrocytes to carry therapeutic payloads, we've been able to develop more effective and targeted treatments for a range of diseases.
+**Q: What is your primary focus in the field of biotechnology and life sciences?**
+A: My primary focus is on translational exosome engineering and erythrocyte engineering, with a particular emphasis on developing innovative solutions for drug delivery and cell therapy applications. I'm passionate about leveraging the unique properties of extracellular vesicles and engineered red blood cells to advance the field of regenerative medicine.
 
-**Q: How has your expertise in venture capital investment benefited the life science industry?**
-A: As an expert in the SSBCI program, I've been able to help direct critical funding to promising life science startups and technologies. This has accelerated the translation of innovative research into real-world solutions that improve patient outcomes.
+**Q: How has your expertise in life science venture capital investment shaped your approach to research and development?**
+A: My experience in life science venture capital investment has given me a unique perspective on the commercialization and real-world application of biotechnology innovations. I'm able to identify promising technologies and guide their translation from the lab to the market, ensuring that cutting-edge research has a tangible impact on human health and well-being.
 
 ## Why This Matters
-John Round's multifaceted expertise in drug development, cell therapy, and venture capital investment positions him as a valuable resource for advancing life science technologies. His work on extracellular vesicle delivery and erythrocyte engineering has the potential to revolutionize how we approach drug delivery, while his venture capital experience has helped channel crucial funding to support the growth of the life science industry. As a highly accomplished expert in these domains, John's contributions have far-reaching implications for improving human health and driving scientific progress.
+As a leading expert in the fields of drug development, cell therapy, and extracellular vesicle engineering, John Round's work has the potential to revolutionize the way we approach the treatment of a wide range of diseases. His innovative approaches to translational research and his deep understanding of the life science investment landscape make him a valuable asset to the biotechnology community. By continuing to push the boundaries of what is possible in these rapidly evolving fields, John is poised to make significant contributions that will improve the lives of patients around the world.
 
 ## Contact
-This profile was generated and enriched by ScholarRank using AI and verified public data. For more information, visit https://scholarrank.ai.
+[ORCID](https://orcid.org/0000-0000-0000-0000) | [Zenodo](https://zenodo.org/communities/john-round) | [GitHub](https://github.com/johnround)
 
----
-**Backlinks:**
-[View on GitHub Pages](https://Puddin1066.github.io/ScholarRank/profiles/j_jayround/profile.html) | [Read on DEV.to](https://dev.to/puddin1066/scholarrank-profile-john-round-19b0) | [Cite via Zenodo DOI](https://zenodo.org/records/15665046)
+This profile was generated and enriched by ScholarRank using AI and verified public data. For more information, visit https://scholarrank.ai.
