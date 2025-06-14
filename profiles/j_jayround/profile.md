@@ -35,3 +35,7 @@ As a leading expert in the fields of drug development, cell therapy, and extrace
 [ORCID](https://orcid.org/0000-0000-0000-0000) | [Zenodo](https://zenodo.org/communities/john-round) | [GitHub](https://github.com/johnround)
 
 This profile was generated and enriched by ScholarRank using AI and verified public data. For more information, visit https://scholarrank.ai.
+
+---
+**Backlinks:**
+[View on GitHub Pages](https://Puddin1066.github.io/ScholarRank/profiles/j_jayround/profile.html) | [Read on DEV.to](https://dev.to/puddin1066/scholarrank-profile-john-round-1kpg) | [Cite via Zenodo DOI](https://zenodo.org/records/15665082)
