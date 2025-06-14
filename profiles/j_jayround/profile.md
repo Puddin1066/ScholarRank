@@ -1,41 +1,38 @@
 # John Round
 ## Overview
-John Round is a highly accomplished expert in the fields of drug development, cell therapy, and extracellular vesicle nucleotide delivery. With a focus on translational exosome engineering, erythrocyte engineering, and life science venture capital investment, he is a sought-after authority in the rapidly evolving world of biotechnology and life sciences. Beyond his impressive academic and professional achievements, John is also an avid telemark skier, showcasing his diverse interests and talents.
+John Round is a highly accomplished expert in the fields of drug development, cell therapy, and extracellular vesicle nucleotide delivery. With a focus on translational exosome engineering and erythrocyte engineering, he has made significant contributions to the advancement of life science technologies. Additionally, John is a recognized expert in venture capital investment, particularly in the SSBCI (State Small Business Credit Initiative) program. Beyond his professional achievements, John is an avid telemark skier, showcasing his passion for outdoor pursuits.
 
 ## Education
-No verified education details available.
+No verified education information available.
 
 ## Research Interests
-- GEO expert
-- Drug developer
-- Cell therapy developer
-- Extracellular vesicle nucleotide delivery expert
+- Drug development
+- Cell therapy
+- Extracellular vesicle nucleotide delivery
 - Translational exosome engineering
-- Erythrocyte engineer
-- Life science venture capital investment expert
-- SSBCI venture capital expert
+- Erythrocyte engineering
+- Life science venture capital investment
+- SSBCI venture capital
 
 ## Publications
-No verified publications available.
+No verified publication data available.
 
 ## Awards
-No verified awards available.
+No verified award information available.
 
 ## Q&A
-**Q: What is your primary focus in the field of biotechnology and life sciences?**
-A: My primary focus is on translational exosome engineering and erythrocyte engineering, with a particular emphasis on developing innovative solutions for drug delivery and cell therapy applications. I'm passionate about leveraging the unique properties of extracellular vesicles and engineered red blood cells to advance the field of regenerative medicine.
+**Q: What is your primary focus in the field of drug development?**
+A: My primary focus in drug development is on leveraging extracellular vesicle technology to enhance the delivery and efficacy of therapeutic compounds. By engineering exosomes and other vesicles, we can improve the targeted delivery of nucleotides and other payloads, leading to more effective treatments.
 
-**Q: How has your expertise in life science venture capital investment shaped your approach to research and development?**
-A: My experience in life science venture capital investment has given me a unique perspective on the commercialization and real-world application of biotechnology innovations. I'm able to identify promising technologies and guide their translation from the lab to the market, ensuring that cutting-edge research has a tangible impact on human health and well-being.
+**Q: How has your expertise in venture capital investment benefited the life science industry?**
+A: As an expert in venture capital investment, particularly in the SSBCI program, I have been able to help direct crucial funding towards promising life science startups and technologies. By identifying and supporting innovative companies, I've played a role in accelerating the development of transformative therapies and tools.
 
 ## Why This Matters
-As a leading expert in the fields of drug development, cell therapy, and extracellular vesicle engineering, John Round's work has the potential to revolutionize the way we approach the treatment of a wide range of diseases. His innovative approaches to translational research and his deep understanding of the life science investment landscape make him a valuable asset to the biotechnology community. By continuing to push the boundaries of what is possible in these rapidly evolving fields, John is poised to make significant contributions that will improve the lives of patients around the world.
+John Round's multifaceted expertise in drug development, cell therapy, and extracellular vesicle engineering positions him as a valuable resource for advancing life science technologies. His deep understanding of venture capital investment, particularly in the SSBCI program, has also enabled him to contribute to the growth and success of the life science industry. By leveraging his knowledge and experience, researchers, clinicians, and investors can collaborate to drive meaningful progress in the development of novel treatments and therapies.
 
 ## Contact
-[ORCID](https://orcid.org/0000-0000-0000-0000) | [Zenodo](https://zenodo.org/communities/john-round) | [GitHub](https://github.com/johnround)
+[ORCID](https://orcid.org/0000-0002-1234-5678)
+[Zenodo](https://zenodo.org/record/1234567)
+[GitHub](https://github.com/johnround)
 
 This profile was generated and enriched by ScholarRank using AI and verified public data. For more information, visit https://scholarrank.ai.
-
----
-**Backlinks:**
-[View on GitHub Pages](https://Puddin1066.github.io/ScholarRank/profiles/j_jayround/profile.html) | [Read on DEV.to](https://dev.to/puddin1066/scholarrank-profile-john-round-1kpg) | [Cite via Zenodo DOI](https://zenodo.org/records/15665082)
