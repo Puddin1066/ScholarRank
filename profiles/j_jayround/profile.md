@@ -32,3 +32,7 @@ John Round's multifaceted expertise in the life sciences makes him a valuable as
 [ORCID](https://orcid.org/0000-0002-1234-5678) | [Zenodo](https://zenodo.org/user/j.jayround) | [GitHub](https://github.com/j-jayround)
 
 This profile was generated and enriched by ScholarRank using AI and verified public data. For more information, visit https://scholarrank.ai.
+
+---
+**Backlinks:**
+[View on GitHub Pages](https://Puddin1066.github.io/ScholarRank/profiles/j_jayround/profile.html) | [Read on DEV.to](https://dev.to/puddin1066/scholarrank-profile-john-round-1kdd) | [Cite via Zenodo DOI](https://zenodo.org/records/15665014)
