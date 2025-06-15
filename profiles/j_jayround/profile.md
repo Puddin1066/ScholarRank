@@ -37,3 +37,7 @@ John Round's multifaceted expertise in biomedical engineering, entrepreneurship,
 ORCID: [0000-0001-6870-3261](https://orcid.org/0000-0001-6870-3261)
 
 This profile was generated and enriched by ScholarRank using AI and verified public data. For more information, visit https://scholarrank.ai.
+
+---
+**Backlinks:**
+[View on GitHub Pages](https://Puddin1066.github.io/ScholarRank/profiles/j_jayround/profile.html) | [Cite via Zenodo DOI](https://zenodo.org/records/15669177)
