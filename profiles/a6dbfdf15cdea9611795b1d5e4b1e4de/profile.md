@@ -37,3 +37,7 @@ John Round's diverse expertise and accomplishments make him a valuable asset in 
 ORCID: [0000-0001-6870-3261](https://orcid.org/0000-0001-6870-3261)
 
 This profile was generated and enriched by ScholarRank using AI and verified public data. For more information, visit https://scholarrank.ai.
+
+---
+**Backlinks:**
+[View on GitHub Pages](https://Puddin1066.github.io/ScholarRank/profiles/a6dbfdf15cdea9611795b1d5e4b1e4de/profile.html) | [Read on DEV.to](https://dev.to/puddin1066/scholarrank-profile-john-round-h0c) | [Cite via Zenodo DOI](https://zenodo.org/records/15669417)
