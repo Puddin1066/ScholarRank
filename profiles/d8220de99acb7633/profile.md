@@ -49,3 +49,7 @@ Zenodo: [d8220de99acb7633](https://zenodo.org/record/d8220de99acb7633)
 GitHub: [jjround](https://github.com/jjround)
 
 This profile was generated and enriched by ScholarRank using AI and verified public data. For more information, visit https://scholarrank.ai.
+
+---
+**Backlinks:**
+[View on GitHub Pages](https://Puddin1066.github.io/ScholarRank/profiles/d8220de99acb7633/profile.html) | [Read on DEV.to](https://dev.to/puddin1066/scholarrank-profile-d8220de99acb7633-2k53) | [Cite via Zenodo DOI](https://zenodo.org/records/15676219) | [View on OSF](https://osf.io/tk2vq/)
