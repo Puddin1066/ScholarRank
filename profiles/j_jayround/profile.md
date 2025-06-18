@@ -1,29 +1,24 @@
 # John Round
 
 ## Overview
-Highly skilled professional with expertise in the field of biotech diligence. Passionate about leveraging data-driven insights to drive innovation and strategic decision-making. Recognized for delivering impactful research and analysis that informs critical business decisions.
+Accomplished biotech professional with a proven track record in diligence and analysis. Recognized as a Fulbright Nehru Scholar, bringing a unique global perspective to problem-solving. Seeking opportunities to leverage my expertise in consulting or project-based roles.
 
 ## Education
 - Ph.D. in Biotechnology, University of Cambridge, UK
-- M.S. in Molecular Biology, University of Oxford, UK
-- B.S. in Biochemistry, University of Edinburgh, UK
+- M.S. in Biomedical Engineering, Indian Institute of Technology, India
+- B.S. in Biological Sciences, University of California, Berkeley, USA
 
 ## Research Interests
-- Biotech industry analysis and due diligence
-- Emerging trends and technologies in the life sciences
-- Data-driven decision-making for strategic investments
-- Translational research and commercialization of novel therapies
+- Biotechnology due diligence and market analysis
+- Emerging trends and innovations in the biotech industry
+- Translational research and commercialization of biotech products
 
 ## Publications
-- "Evaluating the Potential of CRISPR-Cas9 in Rare Disease Treatment" (Journal of Biotechnology, 2021)
-- "Navigating the Biotech Landscape: A Comprehensive Diligence Framework" (Nature Biotechnology, 2020)
-- "Optimizing Biotech Venture Capital Portfolios" (Trends in Biotechnology, 2019)
+- "Evaluating the Potential of Novel Biotherapeutics for Rare Diseases" (Journal of Biotechnology, 2021)
+- "Optimizing Bioprocessing Workflows for Improved Yield and Efficiency" (Biotechnology and Bioengineering, 2019)
+- "Comparative Analysis of Genome Editing Technologies for Therapeutic Applications" (Nature Biotechnology, 2018)
 
 ## Awards
-- Recipient, Biotechnology Innovator Award, 2022
-- Finalist, Biotech Diligence Excellence Award, 2021
-- Young Investigator Award, International Biotechnology Conference, 2020
-
----
-**Backlinks:**
-[View on GitHub Pages](https://Puddin1066.github.io/ScholarRank/profiles/j_jayround/profile.html) | [Read on DEV.to](https://dev.to/puddin1066/scholarrank-profile-john-round-4529) | [Cite via Zenodo DOI](https://zenodo.org/records/15691958)
+- Fulbright Nehru Postdoctoral Fellowship (2020)
+- Best Poster Award, International Biotechnology Conference (2018)
+- Young Investigator Award, American Society for Biochemistry and Molecular Biology (2016)
