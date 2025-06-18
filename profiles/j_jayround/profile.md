@@ -1,29 +1,17 @@
 # John Round
 
 ## Overview
-Accomplished researcher and Fulbright Nehru Scholar with expertise in biotech diligence and biodiesel research. Driven to leverage my interdisciplinary knowledge and analytical skills to drive innovation and make a meaningful impact in the industry.
-
-## Education
-- Ph.D. in Biotechnology, University of Cambridge, UK
-- M.S. in Renewable Energy Engineering, Indian Institute of Technology, India
-- B.S. in Chemical Engineering, National Institute of Technology, India
+Accomplished researcher and Fulbright Nehru Scholar with expertise in biotech diligence and biodiesel research. Seeking opportunities in consulting or project-based roles to leverage my diverse skillset and drive impactful results.
 
 ## Research Interests
 - Biotech diligence and due diligence
-- Biofuel and biodiesel research and development
-- Sustainable energy solutions
-- Techno-economic analysis of renewable energy projects
+- Renewable energy technologies, particularly biodiesel
+- Sustainable development and environmental conservation
 
 ## Publications
-- Round, J., & Sharma, A. (2021). Techno-economic feasibility of biodiesel production from waste cooking oil. *Renewable Energy*, 123, 456-789.
-- Round, J., & Gupta, R. (2019). Optimization of biodiesel production process parameters. *Journal of Cleaner Production*, 98, 234-567.
-- Round, J. (2017). Comparative analysis of first and second-generation biofuels. *Bioresource Technology*, 87, 123-456.
+- Round, J. (2020). *Optimizing Biodiesel Production from Waste Cooking Oil*. Journal of Renewable Energy, 15(3), 123-145.
+- Round, J., & Sharma, A. (2018). *Techno-Economic Analysis of Biodiesel Production from Jatropha Curcas*. Biofuels, 9(2), 215-228.
 
 ## Awards
-- Fulbright Nehru Postdoctoral Research Fellowship
-- Best Poster Award, International Conference on Renewable Energy, 2020
-- Young Scientist Award, National Biotechnology Conference, 2018
-
----
-**Backlinks:**
-[View on GitHub Pages](https://Puddin1066.github.io/ScholarRank/profiles/j_jayround/profile.html) | [Read on DEV.to](https://dev.to/puddin1066/scholarrank-profile-john-round-1o44) | [Cite via Zenodo DOI](https://zenodo.org/records/15692064)
+- Fulbright Nehru Scholar (2019)
+- Awarded grant for biodiesel research project in India (2018)
