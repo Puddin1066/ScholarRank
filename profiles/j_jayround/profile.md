@@ -23,3 +23,7 @@ Accomplished researcher and Fulbright Nehru Scholar with expertise in biotech di
 - Fulbright Nehru Postdoctoral Research Fellowship
 - Best Poster Award, International Conference on Renewable Energy, 2020
 - Young Scientist Award, National Biotechnology Conference, 2018
+
+---
+**Backlinks:**
+[View on GitHub Pages](https://Puddin1066.github.io/ScholarRank/profiles/j_jayround/profile.html) | [Read on DEV.to](https://dev.to/puddin1066/scholarrank-profile-john-round-1o44) | [Cite via Zenodo DOI](https://zenodo.org/records/15692064)
