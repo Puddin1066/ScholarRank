@@ -39,3 +39,7 @@ As the biotech industry continues to rapidly evolve, the role of experts like Jo
 - ORCID: [0000-0001-6870-3261](https://orcid.org/0000-0001-6870-3261)
 
 This profile was generated and enriched by ScholarRank using AI and verified public data. For more information, visit https://scholarrank.ai.
+
+---
+**Backlinks:**
+[View on GitHub Pages](https://Puddin1066.github.io/ScholarRank/profiles/24a95993be734359/profile.html) | [Read on DEV.to](https://dev.to/puddin1066/scholarrank-profile-24a95993be734359-34na) | [Cite via Zenodo DOI](https://zenodo.org/records/15690602) | [View on OSF](https://osf.io/trxmn/)
