@@ -23,3 +23,7 @@ Accomplished biotech professional with a proven track record in diligence and an
 - Fulbright Nehru Postdoctoral Fellowship (2019)
 - Young Investigator Award, International Society for Stem Cell Research (2017)
 - Best Poster Presentation, Biotechnology Industry Organization Conference (2015)
+
+---
+**Backlinks:**
+[View on GitHub Pages](https://Puddin1066.github.io/ScholarRank/profiles/j_jayround/profile.html) | [Cite via Zenodo DOI](https://zenodo.org/records/15692034)
