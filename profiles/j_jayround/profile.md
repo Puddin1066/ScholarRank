@@ -22,3 +22,7 @@ Accomplished biotech professional with a proven track record in diligence and an
 - Fulbright Nehru Postdoctoral Fellowship (2020)
 - Best Poster Award, International Biotechnology Conference (2018)
 - Young Investigator Award, American Society for Biochemistry and Molecular Biology (2016)
+
+---
+**Backlinks:**
+[View on GitHub Pages](https://Puddin1066.github.io/ScholarRank/profiles/j_jayround/profile.html) | [Read on DEV.to](https://dev.to/puddin1066/scholarrank-profile-john-round-3kml) | [Cite via Zenodo DOI](https://zenodo.org/records/15692003)
