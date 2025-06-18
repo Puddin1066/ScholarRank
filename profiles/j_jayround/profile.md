@@ -15,3 +15,7 @@ Accomplished researcher and Fulbright Nehru Scholar with expertise in biotech di
 ## Awards
 - Fulbright Nehru Scholar (2019)
 - Awarded grant for biodiesel research project in India (2018)
+
+---
+**Backlinks:**
+[View on GitHub Pages](https://Puddin1066.github.io/ScholarRank/profiles/j_jayround/profile.html) | [Cite via Zenodo DOI](https://zenodo.org/records/15692085)
